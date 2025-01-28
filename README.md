@@ -25,7 +25,9 @@ Top Albums by Playtime: Rank albums based on total playtime to highlight listene
 
 # Tools & Technologies:
 Data Analysis: Excel
+
 Visualization: Excel
+
 Data Source: Spotify Listening History Dataset [ Maven Analytics]
 
 # Impact:
